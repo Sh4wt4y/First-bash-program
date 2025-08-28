@@ -1,3 +1,3 @@
 *Well its not much but its honest work*
-it works (not well) but it works\n
-it's shitty code but it MY shitty code and thats what matters
+It works (not well) but it works.
+It's shitty code but it's MY shitty code and that's what matters.
